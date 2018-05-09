@@ -1,4 +1,4 @@
-# BluemixIOT
+# Genuino101
 
 ...
 ## Presentation
