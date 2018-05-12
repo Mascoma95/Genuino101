@@ -2,7 +2,7 @@
 how Genuino101 works, what is its strenght point and an implementation about machine learning library PME
 
 ## Presentation
-You can check my SlideShare presentation [here](https://www.slideshare.net/FedericoMascoma/genuino101presentation-96502280)
+You can check my SlideShare presentation [here](https://www.slideshare.net/FedericoMascoma/genuino101presentation-96832990)
 
 ## Project
 The project is built using API provided by CuriePME Library.
